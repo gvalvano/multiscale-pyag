@@ -35,7 +35,7 @@ Once preprocessed the data, you can start the training/test of the model using `
 ## Requirements
 This code was implemented using TensorFlow 1.14 and the libraries detailed in [requirements.txt](https://github.com/gvalvano/multiscale-pyag/requirements.txt).
 You can install these libraries as:
-"pip install -r requirements.txt"
+`pip install -r requirements.txt`
 or using conda (see [this](https://stackoverflow.com/questions/51042589/conda-version-pip-install-r-requirements-txt-target-lib)).
 
 We tested the code on a TITAN Xp GPU, and on a GeForce GTX 1080, using CUDA 10.2. 
